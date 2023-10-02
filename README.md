@@ -1,15 +1,15 @@
-#Threed/  
+**Threed BNBC Directory** 
 
-  ├── contracts/  
+  ├── **contracts/**  
   │   ├── Community.sol  
   │   ├── Token.sol  
   │   ├── NFT.sol  
-  ├── migrations/  
+  ├── **migrations/**  
   │   ├── 1_initial_migration.js  
   │   ├── 2_deploy_contracts.js  
-  ├── test/  
+  ├── **test/**  
   │   ├── community.test.js  
   │   ├── token.test.js  
   │   ├── nft.test.js  
-  ├── truffle-config.js  
-  ├── README.md  
+  ├── **truffle-config.js**  
+  ├── **README.md**
