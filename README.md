@@ -16,7 +16,7 @@ Threed is a socialfi dApp built on the Binance Smart Chain (BNB Chain) that allo
 To get started with Threed on your local development environment, follow these steps:    
 
 1. Clone this repository:  
-git clone <[repository-url](https://github.com/glitchpilot/Threed-BNBC-)>  
+git clone <https://github.com/glitchpilot/Threed-BNBC->  
 cd Threed    
 
 2. Install project dependencies:
